@@ -1,0 +1,7 @@
+[deps]
+Jacobi = "83f21c0b-4282-5fbc-9e3f-f6da3d2e584c"
+LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
+PolynomialBases = "c74db56a-226d-5e98-8bb0-a6049094aeea"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+SummationByPartsOperators = "9f78cca6-572e-554e-b819-917d2f1cf240"
