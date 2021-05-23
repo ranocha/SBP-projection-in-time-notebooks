@@ -5,12 +5,15 @@
 
 This repository contains some code used in the article
 ```
-@online{ranocha2020class,
-  title={A Class of {$A$} Stable Summation by Parts
-         Time Integration Schemes},
+@article{ranocha2021class,
+  title={A New Class of {$A$} Stable Summation by Parts Time Integration Schemes
+         with Strong Initial Conditions},
   author={Ranocha, Hendrik and Nordstr{\"o}m, Jan},
-  year={2020},
+  journal={Journal of Scientific Computing},
+  year={2021},
   month={03},
+  volume={87},
+  doi={10.1007/s10915-021-01454-7},
   eprint={2003.03889},
   eprinttype={arxiv},
   eprintclass={math.NA}
